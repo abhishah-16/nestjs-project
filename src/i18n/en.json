@@ -1,0 +1,13 @@
+{
+	"INVALID_PASSWORD": "Password is invalid",
+	"INVALID_EMAIL": "Provided email is invalid",
+	"INVALID_ACCESS": "Invalid Access",
+	"INVALID_TOKEN": "Invalid Token",
+	"USER_NOT_FOUND": "User not found",
+	"USER_EXISTS": "User already exists",
+	"NOT_FOUND": "NOT_FOUND",
+	"USER_VERIFIED": "USER_VERIFIED",
+	"USER_ALREADY_VERIFIED": "USER_ALREADY_VERIFIED",
+	"ALREADY_VERIFIED": "ALREADY_VERIFIED",
+	"VERIFY_USER": "VERIFY_USER"
+}
